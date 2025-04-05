@@ -1,6 +1,6 @@
 # math-all-mcp
-An MCP (Model Context Protocol) server that can handle mathematical calculations
-No local deployment needed — just add a single configuration to enable large language models with permanently accurate mathematical computation.
+- An MCP (Model Context Protocol) server that can handle mathematical calculations.
+- No local deployment needed — just add a single configuration to enable large language models with permanently accurate mathematical computation.
 ## How to use？
 We only support MCP in SSE mode， just use this URL:
 
