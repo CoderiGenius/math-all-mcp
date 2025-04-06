@@ -4,7 +4,7 @@
 ## How to use？
 We only support MCP in SSE mode， just use this URL:
 
-```https://mcp.iqust.top/sse```
+```http://mcp.iqust.top/sse```
 
 For example, in cursor:
 
@@ -12,7 +12,7 @@ For example, in cursor:
 {
   "mcpServers": {
     "mathall": {
-      "url": "https://mcp.iqust.top/sse"
+      "url": "http://mcp.iqust.top/sse"
     }
   }
 }
