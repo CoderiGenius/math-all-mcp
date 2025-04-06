@@ -1,6 +1,6 @@
-# 数学服务函数文档
+# Math-All-MCP Tools文档
 
-本文档详细介绍了BasicMathService和AdvancedMathService中的所有函数，包括它们的功能、实现方式、参数和返回值，并提供了使用示例。
+本文档详细介绍了Math-All-MCP 的所有Tools，包括它们的功能、实现方式、参数和返回值，并提供了使用示例。
 
 ## 目录
 
