@@ -20,3 +20,7 @@ For example, in cursor:
 
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/7c308f49-ea87-4925-9261-3c0d593cbdc0" />
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7502cede-2ff6-46ce-964f-8e02e7bb3920" />
+
+Detailed documents：
+[中文](math-all-mcp-tools-list.md)
+[English](math-all-mcp-tools-list-en.md)
