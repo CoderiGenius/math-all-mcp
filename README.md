@@ -5,6 +5,8 @@
 We only support MCP in SSE mode， just use this URL:
 
 ```http://mcp.iqust.top/sse```
+OR
+```https://mcp.iqust.top/sse```
 
 For example, in cursor:
 
